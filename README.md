@@ -32,10 +32,12 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [CodePen](https://codepen.io/asiflopz/project/editor/AbLnqY)
 
 ## My process
-I used Visual studio code and chrome to make this also fron Frontend Mentor Guide very helpfull
+I first downloaded challage website and exracted in my computer and opened Vsiual studio code and edited some html code and deleted few files
+come from challager,
+
 
 ### Built with
 
@@ -46,6 +48,7 @@ I used Visual studio code and chrome to make this also fron Frontend Mentor Guid
 ### What I learned
 
 I learned css style position and aligment and it was my first solo coding without looking solution in Internet, Waiting for next challages
+need to improve my code also
 
 To see how you can add code snippets, see below:
 
@@ -281,15 +284,9 @@ p {
 .attribution a { color: hsl(228, 45%, 44%); }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
 
 I learned how to do things before starting write a code and some reserch do better and good looking website and responsive
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
@@ -297,7 +294,6 @@ I learned how to do things before starting write a code and some reserch do bett
 
 ## Author
 
-- Website - [@Asif-lopz](https://github.com/Asif-lopz)
 - Frontend Mentor - [@Asif_Lopz](https://www.frontendmentor.io/profile/Asif-lopz)
 - Twitter - [@Asif_lopz](https://twitter.com/Asif_lopz)
 
