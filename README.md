@@ -31,7 +31,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [CodePen](https://codepen.io/asiflopz/project/editor/AbLnqY)
 
 ## My process
